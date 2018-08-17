@@ -1,0 +1,4 @@
+|Group Name|Owner|Location|WebsiteURL|Twitter|Email|
+|Milwaukee PowerShell User Group|[Paul DeArment](https://twitter.com/pdearmen), Jacob Kratt, and Matthew Bley|Milwaukee, Wi| [Meetup](https://www.meetup.com/Milwaukee-Powershell-Meetup/)|[@PWSHMilwaukee](https://twitter.com/PWSHMilwaukee)|N/A currently|
+|Southwest Missouri PowerShell User Group|[Mike Shepard](https://twitter.com/MikeShepard70)|Springfield,Missouri,USA|[Meetup](https://www.meetup.com/SWMO-PowerShell-User-Group/)|[@MikeShepard70](https://twitter.com/MikeShepard70)|[mshepard70@gmail.com](mailto:mshepard70@gmail.com)|
+|GigCity PowerShell |James Petty |Chattanooga TN |https://www.meetup.com/PowerShell_Chattanooga/|@ChatPSUG
