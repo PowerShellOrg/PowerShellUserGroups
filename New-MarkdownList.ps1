@@ -18,4 +18,4 @@ foreach-object {
 $utc = &$PSScriptRoot\get-utc.ps1
 $md+="`n_Generated $($utc)_"
 
-$md | Out-File $PSScriptRoot\PowerShellUserGroupList.md -Encoding unicode
+$md | Out-File $PSScriptRoot\PowerShellUserGroupList.md -Encoding ascii

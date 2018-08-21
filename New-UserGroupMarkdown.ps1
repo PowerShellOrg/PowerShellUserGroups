@@ -32,7 +32,7 @@ $md = @"
 $md += 
 "`nList generated _$((Get-Date).toUniversaltime().DateTime) UTC_"
 
-$md | Out-file -FilePath $OutputFile -Encoding unicode
+$md | Out-file -FilePath $OutputFile -Encoding ascii
 
 if ($Passthru) {
     Get-Item -Path $OutputFile

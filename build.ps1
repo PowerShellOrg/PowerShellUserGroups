@@ -1,0 +1,12 @@
+#run this command after new user groups have been added
+#to generate updated markdown and PDF documents.
+#this script requires the nodejs and the markdown-pdf package
+
+.\New-MarkdownList.ps1
+.\New-UserGroupMarkdown.ps1
+markdown-pdf -s .\markdown-pdf.css -f Letter .\PowerShellUserGroupList.md
+markdown-pdf -s .\markdown-pdf.css -f Letter .\PowerShellUserGroups.md
+get-childitem *.md,*.pdf
+get-childitem *.pdf | foreach {start $_.fullname}
+
+write-host "If PDFs look ok, commit these changes and push to GitHub." -ForegroundColor cyan
