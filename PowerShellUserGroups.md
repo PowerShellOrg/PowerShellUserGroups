@@ -21,9 +21,9 @@
 |Manila PowerShell User Group|[Sebastian Szumigalski](https://twitter.com/SzumigalskiS)|Manila, Philipines|[Meetup](https://www.meetup.com/Manila-PowerShell-User-Group/)|[@psugmnl](https://twitter.com/PSUGMNL)|[psugmnl@gmail.com](mailto:psugmnl@gmail.com)|
 |Metro Detroit PowerShell User Group|Will Anderson|Southfield,MI,USA|https://www.facebook.com/groups/MetDetPSUG |N/A|N/A|
 |MidMo|Josh Rickard|Columbia,MO,USA|https://www.eventbrite.com/e/midmo-powershell-user-group-tickets-22516367060#|@MidMoPowerShell|midmo-powershell@googlegroups.com|
-|Milwaukee PowerShell User Group|[Paul DeArment](https://twitter.com/pdearmen),Jacob Kratt,and Matthew Bley|Milwaukee, Wi|[Meetup](https://www.meetup.com/Milwaukee-Powershell-Meetup/)|[@PWSHMilwaukee](https://twitter.com/PWSHMilwaukee)|N/A currently|
+|Milwaukee PowerShell User Group|[Paul DeArment](https://twitter.com/pdearmen),Jacob Kratt,Matthew Bley|Milwaukee, Wi|[Meetup](https://www.meetup.com/Milwaukee-Powershell-Meetup/)|[@PWSHMilwaukee](https://twitter.com/PWSHMilwaukee)|none|
 |Mississippi|Mike F Robbins|Virtual , Online|http://mspsug.com/|@MSPSUG|mspsug@gmail.com|
-|MTUG Script Club|Jan Egil Ring,?yvind Kallstad|Oslo, Norway|http://script-club.mtug.no |N/A|N/A|
+|MTUG Script Club|Jan Egil Ring,Øyvind Kallstad|Oslo, Norway|http://script-club.mtug.no |N/A|N/A|
 |Nashville|Mick Pletcher|Nashville,TN,USA|https://www.meetup.com/Nashville-PowerShell-User-Group/|@nashvillePUG||
 |NYC PowerShell User Group|Doug Finke,Sunny Chakraborty|New York,NY|https://www.meetup.com/NycPowershellMeetup/|@dfinke|finked@hotmail.com,sunnyc7@gmail.com|
 |Omaha PowerShell User Group|Boe Prox,Josh Duffney|Omaha, NE, USA|https://twitter.com/OmahaPSUG|[@OmahaPSUG](https://twitter.com/OmahaPSUG)|[omahapsug@gmail.com](mailto:omahapsug@gmail.com)|
@@ -41,4 +41,4 @@
 |Virtual|Joel Bennett|Virtual (Online - No Physical Location)|https://slack.poshcode.org||Jaykul@HuddledMasses.org|
 |Yangon PowerShell User Group|[Sebastian Szumigalski](https://twitter.com/SzumigalskiS)|Yangon, Myanmar|[Meetup](https://www.meetup.com/Yangon-PowerShell-Group/)|[@psugygn](https://twitter.com/PSUGYGN)|[psugygn@gmail.com](mailto:psugygn@gmail.com)|
 
-List generated _Tuesday, August 21, 2018 4:20:09 PM UTC_
+List generated _Tuesday, August 21, 2018 7:14:39 PM UTC_

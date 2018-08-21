@@ -26,8 +26,7 @@ Email      : RiccBabbitt@outlook.com
 
 ## Australia and New Zealand PowerShell User Group
 
-Owner      : {[Adam Murray](https://twitter.com/muzzar78), [Charbel Aghnatios](https://twitter.com/Charbs_Security), [Josh  
-King](https://twitter.com/WindosNZ)}  
+Owner      : {[Adam Murray](https://twitter.com/muzzar78), [Charbel Aghnatios](https://twitter.com/Charbs_Security), [Josh King](https://twitter.com/WindosNZ)}  
 Location   : Oceania (Australia and New Zealand)  
 WebsiteURL : {[anzpsug.github.io](https://anzpsug.github.io), [Meetup](https://www.meetup.com/ANZ-PowerShell-UserGroup)}  
 Twitter    : {[@ANZPSUG](https://twitter.com/ANZPSUG)}  
@@ -155,11 +154,11 @@ Email      : midmo-powershell@googlegroups.com
 
 ## Milwaukee PowerShell User Group
 
-Owner      : {[Paul DeArment](https://twitter.com/pdearmen), Jacob Kratt, and Matthew Bley}  
+Owner      : {[Paul DeArment](https://twitter.com/pdearmen), Jacob Kratt, Matthew Bley}  
 Location   : Milwaukee, Wi  
 WebsiteURL : [Meetup](https://www.meetup.com/Milwaukee-Powershell-Meetup/)  
 Twitter    : [@PWSHMilwaukee](https://twitter.com/PWSHMilwaukee)  
-Email      : N/A currently  
+Email      : none  
 
 ## Mississippi
 
@@ -171,7 +170,7 @@ Email      : mspsug@gmail.com
 
 ## MTUG Script Club
 
-Owner      : {Jan Egil Ring, ?yvind Kallstad}  
+Owner      : {Jan Egil Ring, Øyvind Kallstad}  
 Location   : Oslo, Norway  
 WebsiteURL : http://script-club.mtug.no  
 Twitter    : N/A  
@@ -211,8 +210,7 @@ Email      : info@phillyposh.org
 
 ## PowerShell London UK
 
-Owner      : {[Ebru Cucen](https://www.twitter.com/ebrucucen), [Gael Colas](https://www.twitter.com/gaelcolas), [Coray  
-Burke](https://www.twitter.com/cburke007), [Iain Brighton](https://www.twitter.com/iainbrighton)}  
+Owner      : {[Ebru Cucen](https://www.twitter.com/ebrucucen), [Gael Colas](https://www.twitter.com/gaelcolas), [Coray Burke](https://www.twitter.com/cburke007), [Iain Brighton](https://www.twitter.com/iainbrighton)}  
 Location   : London,UK  
 WebsiteURL : {[Website](http://www.powershell.org.uk), [Meetup](http://www.meetup.com/powershell-london-uk)}  
 Twitter    : [@lonpsug](https://www.twitter.com/)  
@@ -306,4 +304,4 @@ WebsiteURL : [Meetup](https://www.meetup.com/Yangon-PowerShell-Group/)
 Twitter    : [@psugygn](https://twitter.com/PSUGYGN)  
 Email      : [psugygn@gmail.com](mailto:psugygn@gmail.com)  
 
-_Generated Tuesday, August 21, 2018 4:20:09 PM UTC_
+_Generated Tuesday, August 21, 2018 7:14:39 PM UTC_
