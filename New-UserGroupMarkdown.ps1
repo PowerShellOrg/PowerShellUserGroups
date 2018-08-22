@@ -32,9 +32,8 @@ $md = @"
 $md += 
 "`nList generated _$((Get-Date).toUniversaltime().DateTime) UTC_"
 
-$md | Out-file -FilePath $OutputFile -Encoding utf8
-$md | Set-Content -Path c:\work\groups.md -Encoding UTF8
+$md | Out-file -FilePath "$psscriptroot\$OutputFile" -Encoding utf8
 
 if ($Passthru) {
-    Get-Item -Path $OutputFile
+    Get-Item -Path "$psscriptroot\$OutputFile"
 }

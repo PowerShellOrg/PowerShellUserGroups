@@ -304,4 +304,4 @@ WebsiteURL : [Meetup](https://www.meetup.com/Yangon-PowerShell-Group/)
 Twitter    : [@psugygn](https://twitter.com/PSUGYGN)  
 Email      : [psugygn@gmail.com](mailto:psugygn@gmail.com)  
 
-_Generated Tuesday, August 21, 2018 7:14:39 PM UTC_
+_Generated Wednesday, August 22, 2018 3:18:49 PM UTC_
