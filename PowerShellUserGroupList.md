@@ -5,18 +5,18 @@
 Owner      : Thom Schumacher  
 Location   : Phoenix,AZ,USA  
 WebsiteURL : https://azpowershell.wordpress.com/  
-Twitter    : {@Azpowershell, #azpowershell}  
+Twitter    : @Azpowershell,#azpowershell  
 Email      : Azpug@outlook.com  
 
 ## Atlanta PowerShell User Group
 
-Owner      : {Mark Schill, Stephen Owen}  
+Owner      : Mark Schill,Stephen Owen  
 Location   : Atlanta,GA  
 WebsiteURL : https://www.atlpug.org/  
 Twitter    : @ATLPUG  
 Email      : ATLPUG@Foxdeploy.com  
 
-## Austin Powershell
+## Austin PowerShell
 
 Owner      : [Ricc Babbitt](http://twitter.com/ScriptingPro)  
 Location   : Austin, TX  
@@ -26,15 +26,15 @@ Email      : RiccBabbitt@outlook.com
 
 ## Australia and New Zealand PowerShell User Group
 
-Owner      : {[Adam Murray](https://twitter.com/muzzar78), [Charbel Aghnatios](https://twitter.com/Charbs_Security), [Josh King](https://twitter.com/WindosNZ)}  
+Owner      : [Adam Murray](https://twitter.com/muzzar78),[Charbel Aghnatios](https://twitter.com/Charbs_Security),[Josh King](https://twitter.com/WindosNZ)  
 Location   : Oceania (Australia and New Zealand)  
-WebsiteURL : {[anzpsug.github.io](https://anzpsug.github.io), [Meetup](https://www.meetup.com/ANZ-PowerShell-UserGroup)}  
-Twitter    : {[@ANZPSUG](https://twitter.com/ANZPSUG)}  
-Email      : {[ANZPSUG@tikabu.com.au](mailto:ANZPSUG@tikabu.com.au)}  
+WebsiteURL : [anzpsug.github.io](https://anzpsug.github.io),[Meetup](https://www.meetup.com/ANZ-PowerShell-UserGroup)  
+Twitter    : [@ANZPSUG](https://twitter.com/ANZPSUG)  
+Email      : [ANZPSUG@tikabu.com.au](mailto:ANZPSUG@tikabu.com.au)  
 
 ## Boston
 
-Owner      : {Steve Parankewich, Warren Frame}  
+Owner      : Steve Parankewich,Warren Frame  
 Location   : Boston, MA, USA  
 WebsiteURL : http://www.meetup.com/Boston-PowerShell-User-Group/  
 Twitter    : @BosPSUG  
@@ -42,7 +42,7 @@ Email      : N/A
 
 ## Cincinnati PowerShell User Group
 
-Owner      : {Jay Ryan, Chris Brucker}  
+Owner      : Jay Ryan,Chris Brucker  
 Location   : Mason, OH  
 WebsiteURL : http://cincypowershell.org  
 Twitter    : [@CincyPowerShell](https://twitter.com/cincypowershell)  
@@ -50,15 +50,15 @@ Email      : [info@cincypowershell.org](mailto:info@cincypowershell.org)
 
 ## Denver PowerShellers
 
-Owner      : {Joey Piccola, Mike O'Neill, Jason Morgan}  
+Owner      : Joey Piccola,Mike O'Neill,Jason Morgan  
 Location   : Denver, CO, USA  
-WebsiteURL : {https://www.meetup.com/Denver-PowerShellers, https://github.com/DenverPowershellers}  
+WebsiteURL : https://www.meetup.com/Denver-PowerShellers,https://github.com/DenverPowershellers  
 Twitter    : [@DenverCO_PSUG]https://twitter.com/denverco_psug  
 Email      : denverpowershellers@gmail.com  
 
 ## DFW
 
-Owner      : {Josh Miller, Larry Weiss}  
+Owner      : Josh Miller,Larry Weiss  
 Location   : Dallas-Fort Worth,TX,USA  
 WebsiteURL : http://sp.ntpcug.org/PowerShell/default.aspx  
 Twitter    :  
@@ -66,7 +66,7 @@ Email      : DallasFtWorth@powershellgroup.org
 
 ## Dutch PowerShell User Group
 
-Owner      : {Richard Diphoorn, Jeff Wouters, Jaap Brasser}  
+Owner      : Richard Diphoorn,Jeff Wouters,Jaap Brasser  
 Location   : Netherlands  
 WebsiteURL : https://www.dupsug.com  
 Twitter    : @DUPSUG  
@@ -80,7 +80,7 @@ WebsiteURL : https://www.meetup.com/Edinburgh-PowerShell-Devops-User-Group/
 Twitter    : @ScotPSUG  
 Email      : https://psdevopsug.scot  
 
-## GigCity PowerShell 
+## GigCity PowerShell
 
 Owner      : James Petty  
 Location   : Chattanooga TN  
@@ -154,7 +154,7 @@ Email      : midmo-powershell@googlegroups.com
 
 ## Milwaukee PowerShell User Group
 
-Owner      : {[Paul DeArment](https://twitter.com/pdearmen), Jacob Kratt, Matthew Bley}  
+Owner      : [Paul DeArment](https://twitter.com/pdearmen),Jacob Kratt,Matthew Bley  
 Location   : Milwaukee, Wi  
 WebsiteURL : [Meetup](https://www.meetup.com/Milwaukee-Powershell-Meetup/)  
 Twitter    : [@PWSHMilwaukee](https://twitter.com/PWSHMilwaukee)  
@@ -170,7 +170,7 @@ Email      : mspsug@gmail.com
 
 ## MTUG Script Club
 
-Owner      : {Jan Egil Ring, Øyvind Kallstad}  
+Owner      : Jan Egil Ring,Øyvind Kallstad  
 Location   : Oslo, Norway  
 WebsiteURL : http://script-club.mtug.no  
 Twitter    : N/A  
@@ -186,15 +186,15 @@ Email      :
 
 ## NYC PowerShell User Group
 
-Owner      : {Doug Finke, Sunny Chakraborty}  
+Owner      : Doug Finke,Sunny Chakraborty  
 Location   : New York,NY  
 WebsiteURL : https://www.meetup.com/NycPowershellMeetup/  
-Twitter    : {@dfinke}  
-Email      : {finked@hotmail.com, sunnyc7@gmail.com}  
+Twitter    : @dfinke  
+Email      : finked@hotmail.com,sunnyc7@gmail.com  
 
 ## Omaha PowerShell User Group
 
-Owner      : {Boe Prox, Josh Duffney}  
+Owner      : Boe Prox,Josh Duffney  
 Location   : Omaha, NE, USA  
 WebsiteURL : https://twitter.com/OmahaPSUG  
 Twitter    : [@OmahaPSUG](https://twitter.com/OmahaPSUG)  
@@ -202,7 +202,7 @@ Email      : [omahapsug@gmail.com](mailto:omahapsug@gmail.com)
 
 ## Philadelphia
 
-Owner      : {John Mello, Lido Paglia}  
+Owner      : John Mello,Lido Paglia  
 Location   : Philadelphia,PA,USA  
 WebsiteURL : http://phillyposh.org/  
 Twitter    : https://twitter.com/phillyposh  
@@ -210,15 +210,15 @@ Email      : info@phillyposh.org
 
 ## PowerShell London UK
 
-Owner      : {[Ebru Cucen](https://www.twitter.com/ebrucucen), [Gael Colas](https://www.twitter.com/gaelcolas), [Coray Burke](https://www.twitter.com/cburke007), [Iain Brighton](https://www.twitter.com/iainbrighton)}  
+Owner      : [Ebru Cucen](https://www.twitter.com/ebrucucen),[Gael Colas](https://www.twitter.com/gaelcolas),[Coray Burke](https://www.twitter.com/cburke007),[Iain Brighton](https://www.twitter.com/iainbrighton)  
 Location   : London,UK  
-WebsiteURL : {[Website](http://www.powershell.org.uk), [Meetup](http://www.meetup.com/powershell-london-uk)}  
+WebsiteURL : [Website](http://www.powershell.org.uk),[Meetup](http://www.meetup.com/powershell-london-uk)  
 Twitter    : [@lonpsug](https://www.twitter.com/)  
 Email      :  
 
 ## PowerShell SIG of the NTPCUG
 
-Owner      : {Josh Miller, Larry Weiss}  
+Owner      : Josh Miller,Larry Weiss  
 Location   : Dallas,TX,USA  
 WebsiteURL : https://sites.google.com/site/powershellsig/  
 Twitter    : N/A  
@@ -304,4 +304,4 @@ WebsiteURL : [Meetup](https://www.meetup.com/Yangon-PowerShell-Group/)
 Twitter    : [@psugygn](https://twitter.com/PSUGYGN)  
 Email      : [psugygn@gmail.com](mailto:psugygn@gmail.com)  
 
-_Generated Wednesday, August 22, 2018 3:18:49 PM UTC_
+_Generated Wednesday, August 22, 2018 10:01:09 PM UTC_

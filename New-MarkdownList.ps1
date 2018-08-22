@@ -23,9 +23,15 @@ $md = @"
 
 &$PSScriptRoot\get-uglist.ps1 -path $path| Sort-object -Property "Group Name" |
 foreach-object {
-    $md+= "`n## $($_.'Group Name')`n"
-    $details = ($_ | select-object -property * -exclude group*| out-string).trim() -split "`n" 
+    $md+= "`n## $($_.'Group Name'.trim())`n"
+    #define a variable for the processed group to make it easier to track
+    $group = $_
+    #test each property to see if the value is an array
+    #and if so update the object with a comma separated string
+    $group.psobject.properties.name | foreach-object { if ($group.$_ -is [array]) {$group.$_ = $group.$_ -join ","}}
+    $details = ($group | select-object -property * -exclude group*| out-string).trim() -split "`n" 
     foreach ($detail in $details) {
+  
         $md+= "`n$($detail.trim())  "
     }
     $md+="`n"

@@ -4,7 +4,7 @@
 |----------|-----|--------|----------|-------|-----|
 |Arizona PowerShell User Group|Thom Schumacher|Phoenix,AZ,USA|https://azpowershell.wordpress.com/ |@Azpowershell,#azpowershell|Azpug@outlook.com|
 |Atlanta PowerShell User Group|Mark Schill,Stephen Owen|Atlanta,GA|https://www.atlpug.org/|@ATLPUG|ATLPUG@Foxdeploy.com|
-|Austin Powershell|[Ricc Babbitt](http://twitter.com/ScriptingPro)|Austin, TX|https://www.meetup.com/Austin-PowerShell|[@ATXPowerShell](http://twitter.com/ATXPowerShell)|RiccBabbitt@outlook.com|
+|Austin PowerShell|[Ricc Babbitt](http://twitter.com/ScriptingPro)|Austin, TX|https://www.meetup.com/Austin-PowerShell|[@ATXPowerShell](http://twitter.com/ATXPowerShell)|RiccBabbitt@outlook.com|
 |Australia and New Zealand PowerShell User Group|[Adam Murray](https://twitter.com/muzzar78),[Charbel Aghnatios](https://twitter.com/Charbs_Security),[Josh King](https://twitter.com/WindosNZ)|Oceania (Australia and New Zealand)|[anzpsug.github.io](https://anzpsug.github.io),[Meetup](https://www.meetup.com/ANZ-PowerShell-UserGroup)|[@ANZPSUG](https://twitter.com/ANZPSUG)|[ANZPSUG@tikabu.com.au](mailto:ANZPSUG@tikabu.com.au)|
 |Boston|Steve Parankewich,Warren Frame|Boston, MA, USA|http://www.meetup.com/Boston-PowerShell-User-Group/|@BosPSUG|N/A|
 |Cincinnati PowerShell User Group|Jay Ryan,Chris Brucker|Mason, OH|http://cincypowershell.org|[@CincyPowerShell](https://twitter.com/cincypowershell)|[info@cincypowershell.org](mailto:info@cincypowershell.org)|
@@ -41,4 +41,4 @@
 |Virtual|Joel Bennett|Virtual (Online - No Physical Location)|https://slack.poshcode.org||Jaykul@HuddledMasses.org|
 |Yangon PowerShell User Group|[Sebastian Szumigalski](https://twitter.com/SzumigalskiS)|Yangon, Myanmar|[Meetup](https://www.meetup.com/Yangon-PowerShell-Group/)|[@psugygn](https://twitter.com/PSUGYGN)|[psugygn@gmail.com](mailto:psugygn@gmail.com)|
 
-List generated _Wednesday, August 22, 2018 3:18:49 PM UTC_
+List generated _Wednesday, August 22, 2018 10:01:09 PM UTC_
