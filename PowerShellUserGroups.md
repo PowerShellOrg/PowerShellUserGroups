@@ -7,12 +7,12 @@
 |Austin PowerShell|[Ricc Babbitt](http://twitter.com/ScriptingPro)|Austin, TX|https://www.meetup.com/Austin-PowerShell|[@ATXPowerShell](http://twitter.com/ATXPowerShell)|RiccBabbitt@outlook.com|
 |Australia and New Zealand PowerShell User Group|[Adam Murray](https://twitter.com/muzzar78),[Charbel Aghnatios](https://twitter.com/Charbs_Security),[Josh King](https://twitter.com/WindosNZ)|Oceania (Australia and New Zealand)|[anzpsug.github.io](https://anzpsug.github.io),[Meetup](https://www.meetup.com/ANZ-PowerShell-UserGroup)|[@ANZPSUG](https://twitter.com/ANZPSUG)|[ANZPSUG@tikabu.com.au](mailto:ANZPSUG@tikabu.com.au)|
 |Boston|Steve Parankewich,Warren Frame|Boston, MA, USA|http://www.meetup.com/Boston-PowerShell-User-Group/|@BosPSUG|N/A|
+|Chattanooga PowerShell |James Petty|Chattanooga TN |https://www.meetup.com/PowerShell_Chattanooga/|@ChatPSUG|chatpsug@outlook.com|
 |Cincinnati PowerShell User Group|Jay Ryan,Chris Brucker|Mason, OH|http://cincypowershell.org|[@CincyPowerShell](https://twitter.com/cincypowershell)|[info@cincypowershell.org](mailto:info@cincypowershell.org)|
 |Denver PowerShellers|Joey Piccola,Mike O'Neill,Jason Morgan|Denver, CO, USA|https://www.meetup.com/Denver-PowerShellers,https://github.com/DenverPowershellers|[@DenverCO_PSUG]https://twitter.com/denverco_psug|denverpowershellers@gmail.com|
 |DFW|Josh Miller,Larry Weiss|Dallas-Fort Worth,TX,USA|http://sp.ntpcug.org/PowerShell/default.aspx||DallasFtWorth@powershellgroup.org|
-|Dutch PowerShell User Group|Richard Diphoorn,Jeff Wouters,Jaap Brasser|Netherlands|https://www.dupsug.com|@DUPSUG|info@dupsug.com|
+|Dutch PowerShell User Group|Richard Diphoorn,Jeff Wouters,Jaap Brasser|Netherlands|http://www.dupsug.com|@DUPSUG|info@dupsug.com|
 |Edinburgh PowerShell & DevOps / WinOps User group|Paul Broadwith|Scotland|https://www.meetup.com/Edinburgh-PowerShell-Devops-User-Group/|@ScotPSUG|https://psdevopsug.scot|
-|GigCity PowerShell |James Petty|Chattanooga TN |https://www.meetup.com/PowerShell_Chattanooga/|@ChatPSUG||
 |Glasgow PowerShell & Devops / WinOps User group|Paul Broadwith|Scotland|https://www.meetup.com/Scottish-PowerShell-User-Group/|@ScotPSUG|https://psdevopsug.scot|
 |GRPosh|[Thomas Malkewitz](https://dotps1.github.io)|Grand Rapids,MI,USA|https://grposh.github.io|[@grposh](https://twitter.com/grposh)|[grposh@outlook.com](mailto:grposh@outlook.com)|
 |Kansas City PowerShell User Group|Robin Haberstroh|Lenexa, KS, USA|http://kcpsug.com|@KCPSUG|kcpsug@outlook.com|
@@ -41,4 +41,4 @@
 |Virtual|Joel Bennett|Virtual (Online - No Physical Location)|https://slack.poshcode.org||Jaykul@HuddledMasses.org|
 |Yangon PowerShell User Group|[Sebastian Szumigalski](https://twitter.com/SzumigalskiS)|Yangon, Myanmar|[Meetup](https://www.meetup.com/Yangon-PowerShell-Group/)|[@psugygn](https://twitter.com/PSUGYGN)|[psugygn@gmail.com](mailto:psugygn@gmail.com)|
 
-List generated _Wednesday, August 22, 2018 10:01:09 PM UTC_
+List generated _Thursday, August 23, 2018 12:35:45 PM UTC_

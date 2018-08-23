@@ -40,6 +40,14 @@ WebsiteURL : http://www.meetup.com/Boston-PowerShell-User-Group/
 Twitter    : @BosPSUG  
 Email      : N/A  
 
+## Chattanooga PowerShell
+
+Owner      : James Petty  
+Location   : Chattanooga TN  
+WebsiteURL : https://www.meetup.com/PowerShell_Chattanooga/  
+Twitter    : @ChatPSUG  
+Email      : chatpsug@outlook.com  
+
 ## Cincinnati PowerShell User Group
 
 Owner      : Jay Ryan,Chris Brucker  
@@ -68,7 +76,7 @@ Email      : DallasFtWorth@powershellgroup.org
 
 Owner      : Richard Diphoorn,Jeff Wouters,Jaap Brasser  
 Location   : Netherlands  
-WebsiteURL : https://www.dupsug.com  
+WebsiteURL : http://www.dupsug.com  
 Twitter    : @DUPSUG  
 Email      : info@dupsug.com  
 
@@ -79,14 +87,6 @@ Location   : Scotland
 WebsiteURL : https://www.meetup.com/Edinburgh-PowerShell-Devops-User-Group/  
 Twitter    : @ScotPSUG  
 Email      : https://psdevopsug.scot  
-
-## GigCity PowerShell
-
-Owner      : James Petty  
-Location   : Chattanooga TN  
-WebsiteURL : https://www.meetup.com/PowerShell_Chattanooga/  
-Twitter    : @ChatPSUG  
-Email      :  
 
 ## Glasgow PowerShell & Devops / WinOps User group
 
@@ -304,4 +304,4 @@ WebsiteURL : [Meetup](https://www.meetup.com/Yangon-PowerShell-Group/)
 Twitter    : [@psugygn](https://twitter.com/PSUGYGN)  
 Email      : [psugygn@gmail.com](mailto:psugygn@gmail.com)  
 
-_Generated Wednesday, August 22, 2018 10:01:09 PM UTC_
+_Generated Thursday, August 23, 2018 12:35:45 PM UTC_
