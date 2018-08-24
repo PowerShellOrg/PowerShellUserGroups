@@ -24,17 +24,28 @@ Param(
     [alias("websiteURL")]
     [string[]]$URL,
     [Parameter(HelpMessage = "Enter the Twitter account(s) for the user group. Markdown is allowed", ValueFromPipelineByPropertyName)]
-    [string[]]$Twitter
+    [string[]]$Twitter,
+    [Parameter(HelpMessage = "Enter the Country for the user group.", ValueFromPipelineByPropertyName)]
+    [string]$Country = "USA",
+    [Parameter(HelpMessage = "Enter the postal code abbreviation for your state if in the USA.", ValueFromPipelineByPropertyName)]
+    [string]$State = "",
+    [Parameter(HelpMessage = "Enter url to an icon file or graphic for your group. It may be resized.", ValueFromPipelineByPropertyName)]
+    [string]$IconUrl = ""
+    
+
 )
 
 Process {
     [pscustomobject]@{
-        'Group Name' = $Name
-        Owner        = $owner
-        Location     = $Location
-        WebsiteURL   = $Url
-        Twitter      = $Twitter
-        Email        = $email
+        Name       = $Name
+        Owner      = $owner
+        Location   = $Location
+        WebsiteURL = $Url
+        Twitter    = $Twitter
+        Email      = $email
+        Country    = $Country
+        State      = $state
+        Icon       = $IconUrl
     } | Convertto-Json
 }
 

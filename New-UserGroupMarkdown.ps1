@@ -18,21 +18,21 @@ Param(
 $md = @"
 # PowerShell User Groups
 
-|Group Name|Owner|Location|WebsiteURL|Twitter|Email|
-|----------|-----|--------|----------|-------|-----|
+|Name|Owner|Location|WebsiteURL|Twitter|Email|
+|----|-----|--------|----------|-------|-----|
 
 "@
 
 &$PSScriptRoot\get-uglist.ps1 -Path $path | 
     Sort-Object "Group Name" |
     foreach-object {
-    $md += "|{0}|{1}|{2}|{3}|{4}|{5}|`n" -f $_."Group Name", $($_.Owner -join ","), $_.location, ($_.WebSiteURL -join ","), $($_.Twitter -join ","), $($_.Email -join ",")
+    $md += "|{0}|{1}|{2}|{3}|{4}|{5}|`n" -f $_.Name, $($_.Owner -join ","), $_.location, ($_.WebSiteURL -join ","), $($_.Twitter -join ","), $($_.Email -join ",")
 }
 
 $md += 
 "`nList generated _$((Get-Date).toUniversaltime().DateTime) UTC_"
 
-$md | Out-file -FilePath "$psscriptroot\$OutputFile" -Encoding utf8
+$md | Out-file -FilePath "$psscriptroot\$OutputFile" -Encoding utf8 -Width 80
 
 if ($Passthru) {
     Get-Item -Path "$psscriptroot\$OutputFile"

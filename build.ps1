@@ -14,10 +14,12 @@ $run = "$PSScriptRoot\style\runnings.js"
 Write-Host "Creating markdown files" -ForegroundColor green
 &$PSScriptRoot\New-MarkdownList.ps1 -path $PSScriptRoot\data
 &$PSScriptRoot\New-UserGroupMarkdown.ps1 -path $PSScriptRoot\data
+&$PSScriptRoot\New-LocationMarkdown.ps1 -path $PSScriptRoot\data
 
 Write-Host "Converting markdown to PDF" -ForegroundColor green
 markdown-pdf -c $PSScriptRoot -s $css -h $run -f Letter -o $PSScriptRoot\pdf\PowerShellUserGroupList.pdf $psscriptroot\PowerShellUserGroupList.md
 markdown-pdf -c $psscriptroot -s $css -h $run -f Letter -o $PSScriptRoot\pdf\PowerShellUserGroups.pdf $psscriptroot\PowerShellUserGroups.md
+markdown-pdf -c $psscriptroot -s $css -h $run -f Letter -o $PSScriptRoot\pdf\PowerShellGroupsbyLocation.pdf $psscriptroot\PowerShellGroupsbyLocation.md
 
 get-childitem $PSScriptRoot\*.md -Exclude README.md
 Get-Childitem $PSScriptRoot\pdf

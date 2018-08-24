@@ -21,23 +21,27 @@ $md = @"
 
 "@
 
-&$PSScriptRoot\get-uglist.ps1 -path $path| Sort-object -Property "Group Name" |
-foreach-object {
-    $md+= "`n## $($_.'Group Name'.trim())`n"
+&$PSScriptRoot\get-uglist.ps1 -path $path| Sort-object -Property Name |
+    foreach-object {
+    $md += "`n## $($_.Name.trim())`n"
     #define a variable for the processed group to make it easier to track
     $group = $_
     #test each property to see if the value is an array
     #and if so update the object with a comma separated string
     $group.psobject.properties.name | foreach-object { if ($group.$_ -is [array]) {$group.$_ = $group.$_ -join ","}}
-    $details = ($group | select-object -property * -exclude group*| out-string).trim() -split "`n" 
+    $details = ($group | select-object -property * -exclude Name | out-string).trim() -split "`n" 
     foreach ($detail in $details) {
   
-        $md+= "`n$($detail.trim())  "
+        $md += "`n$($detail.trim())  "
     }
-    $md+="`n"
+    $md += "`n"
 }
 
 $utc = &$PSScriptRoot\get-utc.ps1
-$md+="`n_Generated $($utc)_"
+$md += "`n_Generated $($utc)_"
 
-$md | Out-File "$PSScriptRoot\$OutputFile" -Encoding utf8
+$md | Out-File "$PSScriptRoot\$OutputFile" -Encoding utf8 -Width 80
+
+if ($Passthru) {
+    Get-Item -Path "$psscriptroot\$OutputFile"
+}

@@ -1,8 +1,11 @@
 ﻿{
-    "Group Name":  "Chattanooga PowerShell ",
+    "Name":  "Chattanooga PowerShell ",
     "Owner":  "James Petty",
     "Location":  "Chattanooga TN ",
     "WebsiteURL":  "https://www.meetup.com/PowerShell_Chattanooga/",
     "Twitter":  "@ChatPSUG",
-    "Email":  "chatpsug@outlook.com"
+    "Email":  "chatpsug@outlook.com",
+    "Country":  "USA",
+    "State":  "TN",
+    "Icon":  ""
 }
