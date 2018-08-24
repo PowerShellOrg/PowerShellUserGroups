@@ -256,6 +256,14 @@ WebsiteURL : [Meetup](https://www.meetup.com/mssgug/)
 Twitter    :  
 Email      :  
 
+## SoCal PowerShell User Group
+
+Owner      : [Kevin Marquette](http://kevinmarquette.github.io),[David Christian](https://overpoweredshell.com)  
+Location   : Irvine, CA, USA  
+WebsiteURL : [Website](http://socalpowershell.org),[Meetup](https://www.meetup.com/SoCal-PowerShell-user-group)  
+Twitter    : [@KevinMarquette](https://twitter.com/KevinMarquette),[@SoCalPowerShell](https://twitter.com/SoCalPowerShell)  
+Email      : kevmar@gmail.com  
+
 ## South Coast PowerShell User Group
 
 Owner      : [Jonathan Medd](https://www.twitter.com/jonathanmedd)  
@@ -304,4 +312,4 @@ WebsiteURL : [Meetup](https://www.meetup.com/Yangon-PowerShell-Group/)
 Twitter    : [@psugygn](https://twitter.com/PSUGYGN)  
 Email      : [psugygn@gmail.com](mailto:psugygn@gmail.com)  
 
-_Generated Thursday, August 23, 2018 12:35:45 PM UTC_
+_Generated Friday, August 24, 2018 5:15:15 AM UTC_

@@ -34,6 +34,7 @@
 |Romania PowerShell User Group|Sorin Pasa|Bucharest,Romania|https://www.meetup.com/Romanian-PowerShell-User-Group/|@ROMANIAPUG|romaniapug@yahoo.com|
 |San Antonio PowerShell User group|Jake Morrison|San Antonio, TX, USA|http://sapsug.org|N/A|jake@sapsug.org|
 |Singapore PowerShell User Group|[Milton Goh](https://twitter.com/miltongoh)|Singapore, Singapore|[Meetup](https://www.meetup.com/mssgug/)|||
+|SoCal PowerShell User Group|[Kevin Marquette](http://kevinmarquette.github.io),[David Christian](https://overpoweredshell.com)|Irvine, CA, USA|[Website](http://socalpowershell.org),[Meetup](https://www.meetup.com/SoCal-PowerShell-user-group)|[@KevinMarquette](https://twitter.com/KevinMarquette),[@SoCalPowerShell](https://twitter.com/SoCalPowerShell)|kevmar@gmail.com|
 |South Coast PowerShell User Group|[Jonathan Medd](https://www.twitter.com/jonathanmedd)|Southampton, UK|[Meetup](https://www.meetup.com/UK-South-Coast-PowerShell-User-Group/) |[@UKSthCoastPSUG](http://www.twitter.com/UKSthCoastPSUG)||
 |Southwest Missouri PowerShell User Group|[Mike Shepard](https://twitter.com/MikeShepard70)|Springfield,MO,USA|[Meetup](https://www.meetup.com/SWMO-PowerShell-User-Group/)|[@MikeShepard70](https://twitter.com/MikeShepard70)|[mshepard70@gmail.com](mailto:mshepard70@gmail.com)|
 |St. Louis|Michael Lombardi|St. Louis,MO,USA|https://www.meetup.com/stlpsug|stl.psug@outlook.com||
@@ -41,4 +42,4 @@
 |Virtual|Joel Bennett|Virtual (Online - No Physical Location)|https://slack.poshcode.org||Jaykul@HuddledMasses.org|
 |Yangon PowerShell User Group|[Sebastian Szumigalski](https://twitter.com/SzumigalskiS)|Yangon, Myanmar|[Meetup](https://www.meetup.com/Yangon-PowerShell-Group/)|[@psugygn](https://twitter.com/PSUGYGN)|[psugygn@gmail.com](mailto:psugygn@gmail.com)|
 
-List generated _Thursday, August 23, 2018 12:35:45 PM UTC_
+List generated _Friday, August 24, 2018 5:15:26 AM UTC_
