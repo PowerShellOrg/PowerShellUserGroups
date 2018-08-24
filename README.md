@@ -45,6 +45,6 @@ Markdown is permitted, but it is not required. A PowerShell script, `New-UserGro
 
 The Icon property is currently not being used in any markdown or PDF output. But this can point to a thumbnail size graphic or icon for your group. Expect that this will be resized when eventually used.
 
-**You do not need to update any markdown files as they are generated fresh after each update. The json file is the only item that needs to be updated. If you prefer, you can email your group information to jeffh@powershell.org**
+**You do not need to update any markdown files as they are generated fresh after each update. The json file is the only item that needs to be updated. If you prefer, you can email your group information to jeffh@powershell.org or open an Issue.**
 
-*last updated Friday, August 24, 2018 4:04:09 PM UTC*
+*last updated Friday, August 24, 2018 4:24:09 PM UTC*
