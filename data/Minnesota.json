@@ -1,6 +1,10 @@
 ﻿{
-    "Name":  "Twin Cities",
-    "Owner":  "Tim Curwick",
+    "Name":  "Minnesota PowerShell Automation Group",
+    "Owner":  [
+                "Joe Artz",
+                "Tim Curwick",
+                "Mike McAlpin"
+              ]
     "Location":  "Minneapolis, MN",
     "WebsiteURL":  "http://www.meetup.com/Twin-Cities-PowerShell-User-Group/",
     "Twitter":  "",
