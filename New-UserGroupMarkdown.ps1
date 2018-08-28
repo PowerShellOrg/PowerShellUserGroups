@@ -24,7 +24,7 @@ $md = @"
 "@
 
 &$PSScriptRoot\get-uglist.ps1 -Path $path | 
-    Sort-Object "Group Name" |
+    Sort-Object -property Name |
     foreach-object {
     $md += "|{0}|{1}|{2}|{3}|{4}|{5}|`n" -f $_.Name, $($_.Owner -join ","), $_.location, ($_.WebSiteURL -join ","), $($_.Twitter -join ","), $($_.Email -join ",")
 }

@@ -221,8 +221,8 @@ Email      : N/A
 
 ### MN
 
-Name       : Twin Cities  
-Owner      : Tim Curwick  
+Name       : Minnesota PowerShell Automation Group  
+Owner      : Joe Artz,Tim Curwick,Mike McAlpin  
 Location   : Minneapolis, MN  
 WebsiteURL : http://www.meetup.com/Twin-Cities-PowerShell-User-Group/  
 Twitter    :  
@@ -351,4 +351,4 @@ WebsiteURL : [Meetup](https://www.meetup.com/Milwaukee-Powershell-Meetup/)
 Twitter    : [@PWSHMilwaukee](https://twitter.com/PWSHMilwaukee)  
 Email      : none  
 
-_Generated Tuesday, August 28, 2018 3:23:16 PM UTC_
+_Generated Tuesday, August 28, 2018 7:10:54 PM UTC_

@@ -231,6 +231,17 @@ Country    : USA
 State      : WI  
 Icon       :  
 
+## Minnesota PowerShell Automation Group
+
+Owner      : Joe Artz,Tim Curwick,Mike McAlpin  
+Location   : Minneapolis, MN  
+WebsiteURL : http://www.meetup.com/Twin-Cities-PowerShell-User-Group/  
+Twitter    :  
+Email      :  
+Country    : USA  
+State      : MN  
+Icon       :  
+
 ## Mississippi PowerShell User Group
 
 Owner      : Mike F Robbins  
@@ -418,17 +429,6 @@ Country    : USA
 State      : PA  
 Icon       :  
 
-## Twin Cities
-
-Owner      : Tim Curwick  
-Location   : Minneapolis, MN  
-WebsiteURL : http://www.meetup.com/Twin-Cities-PowerShell-User-Group/  
-Twitter    :  
-Email      :  
-Country    : USA  
-State      : MN  
-Icon       :  
-
 ## Virtual PowerShell User Group
 
 Owner      : Joel Bennett  
@@ -451,4 +451,4 @@ Country    : Myanmar
 State      :  
 Icon       :  
 
-_Generated Tuesday, August 28, 2018 3:23:16 PM UTC_
+_Generated Tuesday, August 28, 2018 7:10:53 PM UTC_
