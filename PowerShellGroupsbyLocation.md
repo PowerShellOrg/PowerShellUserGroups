@@ -18,6 +18,17 @@ WebsiteURL : [anzpsug.github.io](https://anzpsug.github.io),[Meetup](https://www
 Twitter    : [@ANZPSUG](https://twitter.com/ANZPSUG)  
 Email      : [ANZPSUG@tikabu.com.au](mailto:ANZPSUG@tikabu.com.au)  
 
+## Canada
+
+### Quebec
+
+Name       : Montreal PowerShell User Group  
+Owner      : Francois-Xavier Cat  
+Location   : Montreal  
+WebsiteURL : https://www.meetup.com/MontrealPowerShellUserGroup/  
+Twitter    : MTLPowerShell  
+Email      : fxcat@lazywinadmin.com  
+
 ## England
 
 Name       : Manchester PowerShell User Group  
@@ -40,6 +51,15 @@ Location   : Southampton, UK
 WebsiteURL : [Meetup](https://www.meetup.com/UK-South-Coast-PowerShell-User-Group/)  
 Twitter    : [@UKSthCoastPSUG](http://www.twitter.com/UKSthCoastPSUG)  
 Email      :  
+
+## France
+
+Name       : French PowerShell User Group  
+Owner      : Francois-Xavier Cat  
+Location   : Virtual  
+WebsiteURL : https://www.meetup.com/FrenchPSUG/  
+Twitter    : FrPSUG  
+Email      : fxcat@lazywinadmin.com  
 
 ## Myanmar
 
@@ -331,4 +351,4 @@ WebsiteURL : [Meetup](https://www.meetup.com/Milwaukee-Powershell-Meetup/)
 Twitter    : [@PWSHMilwaukee](https://twitter.com/PWSHMilwaukee)  
 Email      : none  
 
-_Generated Friday, August 24, 2018 3:51:57 PM UTC_
+_Generated Tuesday, August 28, 2018 3:23:16 PM UTC_

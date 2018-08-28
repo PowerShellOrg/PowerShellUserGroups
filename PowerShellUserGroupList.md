@@ -121,6 +121,17 @@ Country    : Scotland
 State      :  
 Icon       :  
 
+## French PowerShell User Group
+
+Owner      : Francois-Xavier Cat  
+Location   : Virtual  
+WebsiteURL : https://www.meetup.com/FrenchPSUG/  
+Twitter    : FrPSUG  
+Email      : fxcat@lazywinadmin.com  
+Country    : France  
+State      :  
+Icon       :  
+
 ## Glasgow PowerShell & Devops / WinOps User group
 
 Owner      : Paul Broadwith  
@@ -231,6 +242,17 @@ Country    : USA
 State      : MS  
 Icon       :  
 
+## Montreal PowerShell User Group
+
+Owner      : Francois-Xavier Cat  
+Location   : Montreal  
+WebsiteURL : https://www.meetup.com/MontrealPowerShellUserGroup/  
+Twitter    : MTLPowerShell  
+Email      : fxcat@lazywinadmin.com  
+Country    : Canada  
+State      : Quebec  
+Icon       :  
+
 ## MTUG Script Club
 
 Owner      : Jan Egil Ring,Øyvind Kallstad  
@@ -273,7 +295,7 @@ Twitter    : [@OmahaPSUG](https://twitter.com/OmahaPSUG)
 Email      : [omahapsug@gmail.com](mailto:omahapsug@gmail.com)  
 Country    : USA  
 State      : NE  
-Icon       :  
+Icon       : https://pbs.twimg.com/profile_images/477061562859933696/3HhR5Upu_400x400.png  
 
 ## PowerShell London UK
 
@@ -429,4 +451,4 @@ Country    : Myanmar
 State      :  
 Icon       :  
 
-_Generated Friday, August 24, 2018 3:51:56 PM UTC_
+_Generated Tuesday, August 28, 2018 3:23:16 PM UTC_
