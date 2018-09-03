@@ -44,4 +44,4 @@
 |Virtual PowerShell User Group|Joel Bennett|Virtual (Online - No Physical Location)|https://slack.poshcode.org||Jaykul@HuddledMasses.org|
 |Yangon PowerShell User Group|[Sebastian Szumigalski](https://twitter.com/SzumigalskiS)|Yangon, Myanmar|[Meetup](https://www.meetup.com/Yangon-PowerShell-Group/)|[@psugygn](https://twitter.com/PSUGYGN)|[psugygn@gmail.com](mailto:psugygn@gmail.com)|
 
-List generated _Tuesday, August 28, 2018 7:10:53 PM UTC_
+List generated _Monday, September 3, 2018 3:54:28 PM UTC_

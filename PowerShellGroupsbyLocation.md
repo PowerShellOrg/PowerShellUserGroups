@@ -351,4 +351,4 @@ WebsiteURL : [Meetup](https://www.meetup.com/Milwaukee-Powershell-Meetup/)
 Twitter    : [@PWSHMilwaukee](https://twitter.com/PWSHMilwaukee)  
 Email      : none  
 
-_Generated Tuesday, August 28, 2018 7:10:54 PM UTC_
+_Generated Monday, September 3, 2018 3:54:29 PM UTC_

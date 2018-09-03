@@ -42,7 +42,7 @@ Twitter    : [@ANZPSUG](https://twitter.com/ANZPSUG)
 Email      : [ANZPSUG@tikabu.com.au](mailto:ANZPSUG@tikabu.com.au)  
 Country    : Australia,New Zealand  
 State      :  
-Icon       :  
+Icon       : https://cdn.rawgit.com/ANZPSUG/anzpsug.github.io/c96c3bb0/img/ANZPSUG.png  
 
 ## Boston
 
@@ -451,4 +451,4 @@ Country    : Myanmar
 State      :  
 Icon       :  
 
-_Generated Tuesday, August 28, 2018 7:10:53 PM UTC_
+_Generated Monday, September 3, 2018 3:54:28 PM UTC_
