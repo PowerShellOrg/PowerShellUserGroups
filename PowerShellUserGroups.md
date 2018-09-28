@@ -1,4 +1,4 @@
-# PowerShell User Groups
+﻿# PowerShell User Groups
 
 |Name|Owner|Location|WebsiteURL|Twitter|Email|
 |----|-----|--------|----------|-------|-----|
@@ -31,6 +31,7 @@
 |NYC PowerShell User Group|Doug Finke,Sunny Chakraborty|New York, NY|https://www.meetup.com/NycPowershellMeetup/|@dfinke|finked@hotmail.com,sunnyc7@gmail.com|
 |Omaha PowerShell User Group|Boe Prox,Josh Duffney|Omaha, NE|https://twitter.com/OmahaPSUG|[@OmahaPSUG](https://twitter.com/OmahaPSUG)|[omahapsug@gmail.com](mailto:omahapsug@gmail.com)|
 |PowerShell London UK|[Ebru Cucen](https://www.twitter.com/ebrucucen),[Gael Colas](https://www.twitter.com/gaelcolas),[Coray Burke](https://www.twitter.com/cburke007),[Iain Brighton](https://www.twitter.com/iainbrighton)|London, UK|[Website](http://www.powershell.org.uk),[Meetup](http://www.meetup.com/powershell-london-uk)|[@lonpsug](https://www.twitter.com/)||
+|PowerShell Meetup UY|[Victor Silva](https://twitter.com/vmsilvamolina)|Montevideo, Uruguay|https://www.meetup.com/es-ES/PowerShell-Meetup-UY/|@PowerShellUY|powershelluy@gmail.com|
 |PowerShell SIG of the NTPCUG|Josh Miller,Larry Weiss|Dallas, TX|https://sites.google.com/site/powershellsig/ |N/A|N/A|
 |PowerShell_ES Spanish User Group|Tomas Cribb|Rosario, Argentina|https://http://blog.powershell-es.com/|@PowerShell_ES|tomascribb@gmail.com|
 |Romania PowerShell User Group|Sorin Pasa|Bucharest, Romania|https://www.meetup.com/Romanian-PowerShell-User-Group/|@ROMANIAPUG|romaniapug@yahoo.com|
@@ -44,4 +45,4 @@
 |Virtual PowerShell User Group|Joel Bennett|Virtual (Online - No Physical Location)|https://slack.poshcode.org||Jaykul@HuddledMasses.org|
 |Yangon PowerShell User Group|[Sebastian Szumigalski](https://twitter.com/SzumigalskiS)|Yangon, Myanmar|[Meetup](https://www.meetup.com/Yangon-PowerShell-Group/)|[@psugygn](https://twitter.com/PSUGYGN)|[psugygn@gmail.com](mailto:psugygn@gmail.com)|
 
-List generated _Monday, September 3, 2018 3:54:28 PM UTC_
+List generated _Friday, September 28, 2018 9:42:56 PM UTC_

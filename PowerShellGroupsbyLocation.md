@@ -1,4 +1,4 @@
-# PowerShell Groups by Location
+﻿# PowerShell Groups by Location
 
 ## Argentina
 
@@ -12,7 +12,8 @@ Email      : tomascribb@gmail.com
 ## Australia, New Zealand
 
 Name       : Australia and New Zealand PowerShell User Group  
-Owner      : [Adam Murray](https://twitter.com/muzzar78),[Charbel Aghnatios](https://twitter.com/Charbs_Security),[Josh King](https://twitter.com/WindosNZ)  
+Owner      : [Adam Murray](https://twitter.com/muzzar78),[Charbel  
+Aghnatios](https://twitter.com/Charbs_Security),[Josh King](https://twitter.com/WindosNZ)  
 Location   : Oceania (Australia and New Zealand)  
 WebsiteURL : [anzpsug.github.io](https://anzpsug.github.io),[Meetup](https://www.meetup.com/ANZ-PowerShell-UserGroup)  
 Twitter    : [@ANZPSUG](https://twitter.com/ANZPSUG)  
@@ -39,7 +40,8 @@ Twitter    : [@getpsugukman](https://twitter.com/getpsugukman)
 Email      :  
 
 Name       : PowerShell London UK  
-Owner      : [Ebru Cucen](https://www.twitter.com/ebrucucen),[Gael Colas](https://www.twitter.com/gaelcolas),[Coray Burke](https://www.twitter.com/cburke007),[Iain Brighton](https://www.twitter.com/iainbrighton)  
+Owner      : [Ebru Cucen](https://www.twitter.com/ebrucucen),[Gael Colas](https://www.twitter.com/gaelcolas),[Coray  
+Burke](https://www.twitter.com/cburke007),[Iain Brighton](https://www.twitter.com/iainbrighton)  
 Location   : London, UK  
 WebsiteURL : [Website](http://www.powershell.org.uk),[Meetup](http://www.meetup.com/powershell-london-uk)  
 Twitter    : [@lonpsug](https://www.twitter.com/)  
@@ -131,6 +133,17 @@ WebsiteURL : [Meetup](https://www.meetup.com/mssgug/)
 Twitter    :  
 Email      :  
 
+## Uruguay
+
+### Montevideo
+
+Name       : PowerShell Meetup UY  
+Owner      : [Victor Silva](https://twitter.com/vmsilvamolina)  
+Location   : Montevideo, Uruguay  
+WebsiteURL : https://www.meetup.com/es-ES/PowerShell-Meetup-UY/  
+Twitter    : @PowerShellUY  
+Email      : powershelluy@gmail.com  
+
 ## USA
 
 Name       : Virtual PowerShell User Group  
@@ -155,7 +168,8 @@ Name       : SoCal PowerShell User Group
 Owner      : [Kevin Marquette](http://kevinmarquette.github.io),[David Christian](https://overpoweredshell.com)  
 Location   : Irvine, CA, USA  
 WebsiteURL : [Website](http://socalpowershell.org),[Meetup](https://www.meetup.com/SoCal-PowerShell-user-group)  
-Twitter    : [@KevinMarquette](https://twitter.com/KevinMarquette),[@SoCalPowerShell](https://twitter.com/SoCalPowerShell)  
+Twitter    : [@KevinMarquette](https://twitter.com/KevinMarquette),[@SoCalPowerShell](https://twitter.com/SoCalPowerShe  
+ll)  
 Email      : kevmar@gmail.com  
 
 ### CO
@@ -351,4 +365,4 @@ WebsiteURL : [Meetup](https://www.meetup.com/Milwaukee-Powershell-Meetup/)
 Twitter    : [@PWSHMilwaukee](https://twitter.com/PWSHMilwaukee)  
 Email      : none  
 
-_Generated Monday, September 3, 2018 3:54:29 PM UTC_
+_Generated Friday, September 28, 2018 9:42:57 PM UTC_
