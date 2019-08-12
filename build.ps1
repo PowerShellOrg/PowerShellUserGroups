@@ -21,7 +21,7 @@ markdown-pdf -c $PSScriptRoot -s $css -h $run -f Letter -o $PSScriptRoot\pdf\Pow
 markdown-pdf -c $psscriptroot -s $css -h $run -f Letter -o $PSScriptRoot\pdf\PowerShellUserGroups.pdf $psscriptroot\PowerShellUserGroups.md
 markdown-pdf -c $psscriptroot -s $css -h $run -f Letter -o $PSScriptRoot\pdf\PowerShellGroupsbyLocation.pdf $psscriptroot\PowerShellGroupsbyLocation.md
 
-get-childitem $PSScriptRoot\*.md -Exclude README.md
+Get-ChildItem $PSScriptRoot\*.md -Exclude README.md
 Get-Childitem $PSScriptRoot\pdf
 
 #open each pdf in the default application to review
