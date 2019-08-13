@@ -1,7 +1,10 @@
 {
     "Name": "French PowerShell User Group",
     "Owner": [
-        "Francois-Xavier Cat"
+        "[Francois-Xavier Cat](https://lazywinadmin.com)",
+        "[Stephane Van Gulick](http://Powershelldistrict.com)",
+        "[Olivier Miossec](http://omiossec.github.io)",
+        "[Laurent Lienhard](http://howiautomatedthis.com)",
     ],
     "Location": "Virtual",
     "WebsiteURL": [
@@ -11,7 +14,7 @@
         "FrPSUG"
     ],
     "Email": [
-        "fxcat@lazywinadmin.com"
+        "frpsug@gmail.com"
     ],
     "Country": "France",
     "State": "",
