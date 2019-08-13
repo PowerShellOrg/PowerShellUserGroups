@@ -55,11 +55,11 @@ Email      :
 ## France
 
 Name       : French PowerShell User Group  
-Owner      : Francois-Xavier Cat  
+Owner      : [Francois-Xavier Cat](https://lazywinadmin.com),[Stephane Van Gulick](http://Powershelldistrict.com),[Olivier Miossec](http://omiossec.github.io),[Laurent Lienhard](http://howiautomatedthis.com)  
 Location   : Virtual  
 WebsiteURL : https://www.meetup.com/FrenchPSUG/  
 Twitter    : FrPSUG  
-Email      : fxcat@lazywinadmin.com  
+Email      : frpsug@gmail.com  
 
 ## Myanmar
 
@@ -371,4 +371,4 @@ WebsiteURL : [Meetup](https://www.meetup.com/Milwaukee-Powershell-Meetup/)
 Twitter    : [@PWSHMilwaukee](https://twitter.com/PWSHMilwaukee)  
 Email      : none  
 
-_Generated Monday, August 12, 2019 10:54:19 PM UTC_
+_Generated Tuesday, August 13, 2019 2:49:01 PM UTC_

@@ -13,7 +13,7 @@
 |DFW|Josh Miller,Larry Weiss|Dallas-Fort Worth, TX|http://sp.ntpcug.org/PowerShell/default.aspx||DallasFtWorth@powershellgroup.org|
 |Dutch PowerShell User Group|Richard Diphoorn,Jeff Wouters,Jaap Brasser|Netherlands|http://www.dupsug.com|@DUPSUG|info@dupsug.com|
 |Edinburgh PowerShell & DevOps / WinOps User group|Paul Broadwith|Edinburgh|https://www.meetup.com/Edinburgh-PowerShell-Devops-User-Group/|@ScotPSUG|https://psdevopsug.scot|
-|French PowerShell User Group|Francois-Xavier Cat|Virtual|https://www.meetup.com/FrenchPSUG/|FrPSUG|fxcat@lazywinadmin.com|
+|French PowerShell User Group|[Francois-Xavier Cat](https://lazywinadmin.com),[Stephane Van Gulick](http://Powershelldistrict.com),[Olivier Miossec](http://omiossec.github.io),[Laurent Lienhard](http://howiautomatedthis.com)|Virtual|https://www.meetup.com/FrenchPSUG/|FrPSUG|frpsug@gmail.com|
 |Gainesville PowerShell User Group|[Andrew Pla](https://twitter.com/AndrewPlaTech),[Andrew Carey](https://twitter.com/agcareyUF)|Gainesville, FL|[gnvpsug.github.io](https://gnvpsug.github.io),[Meetup](https://www.meetup.com/Gainesville-PowerShell-User-Group)|[@gnvpsug](https://twitter.com/gnvpsug)|[gnvpsug@gmail.com](mailto:omahapsug@gmail.com)|
 |Glasgow PowerShell & Devops / WinOps User group|Paul Broadwith|Glasgow|https://www.meetup.com/Scottish-PowerShell-User-Group/|@ScotPSUG|https://psdevopsug.scot|
 |GRPosh|[Thomas Malkewitz](https://dotps1.github.io)|Grand Rapids, MI|https://grposh.github.io|[@grposh](https://twitter.com/grposh)|[grposh@outlook.com](mailto:grposh@outlook.com)|
@@ -46,4 +46,4 @@
 |Virtual PowerShell User Group|Joel Bennett|Virtual (Online - No Physical Location)|https://slack.poshcode.org||Jaykul@HuddledMasses.org|
 |Yangon PowerShell User Group|[Sebastian Szumigalski](https://twitter.com/SzumigalskiS)|Yangon, Myanmar|[Meetup](https://www.meetup.com/Yangon-PowerShell-Group/)|[@psugygn](https://twitter.com/PSUGYGN)|[psugygn@gmail.com](mailto:psugygn@gmail.com)|
 
-List generated _Monday, August 12, 2019 10:54:19 PM UTC_
+List generated _Tuesday, August 13, 2019 2:49:01 PM UTC_
